@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# 🔐 Password Strength Classifier  
+🔐 Password Strength Classifier  
 **Machine Learning Project using Random Forest**
 
 Sebuah proyek klasifikasi kekuatan password berbasis machine learning yang mampu mengkategorikan password menjadi **Weak**, **Medium**, atau **Strong** berdasarkan karakteristiknya.
